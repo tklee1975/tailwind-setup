@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwind-config-viewer": "^1.6.2",
+    "tailwindcss": "^2.2.16"
+  }
+}
